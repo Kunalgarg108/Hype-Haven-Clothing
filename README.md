@@ -2,7 +2,7 @@
 ---
 ## Overview
 
-### ClothingStore is an e-commerce front-end application built with **React (Vite)**. It provides a seamless shopping experience with user authentication using **Firebase** (email and Google authentication). The application is styled with **Swiper** for smooth carousels and uses **React Toastify** for notifications.
+### It is an e-commerce application built with **React (Vite)**. It provides a seamless shopping experience with user authentication using **Firebase** (email and Google authentication). The application is styled with **Swiper** for smooth carousels and uses **React Toastify** for notifications.
 
 ---
 
