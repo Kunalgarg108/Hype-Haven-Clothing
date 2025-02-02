@@ -30,7 +30,7 @@ function Footer() {
       <div>
         <hr />
         <p
-        className='py-5 text-sm text-center'>Copyright 2024@ forever.com- All Rights Reserved</p>
+        className='py-5 text-sm text-center'>Copyright 2024@ Hype Haven.com- All Rights Reserved</p>
       </div>
     </div>
   )
