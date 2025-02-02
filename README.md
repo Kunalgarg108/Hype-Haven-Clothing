@@ -26,8 +26,8 @@
 ##  Installation Guide 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/login-page.git
-cd login-page
+git clone https://github.com/Kunalgarg108/Hype-Haven-Clothing.git
+cd Hype-Haven-Clothing
 ```
 
 ### 2️⃣ Install Dependencies  
