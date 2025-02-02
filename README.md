@@ -9,4 +9,5 @@
   <img src="https://raw.githubusercontent.com/Kunalgarg108/Hype-Haven-Clothing/main/public/image7.png" width="45%">
   <img src="https://raw.githubusercontent.com/Kunalgarg108/Hype-Haven-Clothing/main/public/image8.png" width="45%">
   <img src="https://raw.githubusercontent.com/Kunalgarg108/Hype-Haven-Clothing/main/public/image9.png" width="45%">
+  <img src="https://raw.githubusercontent.com/Kunalgarg108/Hype-Haven-Clothing/main/public/image10.png" width="45%">
 </div>
