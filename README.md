@@ -8,7 +8,6 @@ ClothingStore is an e-commerce front-end application built with **React (Vite)**
 ## Features
 - **User Authentication:** Login and signup using Firebase (Email & Google Auth)
 - **Routing:** Managed with `react-router-dom` for a smooth user experience
-- **Interactive UI:** Carousel components powered by Swiper
 - **Notifications:** Uses `react-toastify` for toast messages
 - **Mobile Responsive:** Special media queries ensure a smooth experience on mobile devices
 
