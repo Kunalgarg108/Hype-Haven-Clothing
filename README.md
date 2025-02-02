@@ -75,3 +75,45 @@ npm run dev
   <img src="https://raw.githubusercontent.com/Kunalgarg108/Hype-Haven-Clothing/main/public/image9.png" width="45%">
   <img src="https://raw.githubusercontent.com/Kunalgarg108/Hype-Haven-Clothing/main/public/image10.png" width="45%">
 </div>
+
+---
+## Folder Structure
+```
+Hype-Haven/
+├── public/          # Static files and screenshots
+├── src/             # Main source folder
+│   ├── assets/      # Images, fonts, and other assets
+│   ├── components/  # Reusable components
+│   │   ├── BestSeller.jsx
+│   │   ├── CardHome.jsx
+│   │   ├── CartTotal.jsx
+│   │   ├── Footer.jsx
+│   │   ├── LatestCollection.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── NewsLetterBox.jsx
+│   │   ├── Policy.jsx
+│   │   ├── ProductItem.jsx
+│   │   ├── RelatedProduct.jsx
+│   │   ├── SearchBar.jsx
+│   │   ├── Title.jsx
+│   ├── context/     # Context API files
+│   │   ├── Shopcontext.jsx
+│   ├── pages/       # Application pages
+│   │   ├── About.jsx
+│   │   ├── Cart.jsx
+│   │   ├── Collection.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Home.jsx
+│   │   ├── Login.jsx
+│   │   ├── Order.jsx
+│   │   ├── Placeorder.jsx
+│   │   ├── Product.jsx
+│   ├── App.jsx      # Root app component
+│   ├── firebase.js  # Firebase configuration
+│   ├── index.css    # Global styles
+│   ├── main.jsx     # Entry point for React
+├── .env # Environment variables
+├── index.html
+├── tailwind.config.js
+
+```
